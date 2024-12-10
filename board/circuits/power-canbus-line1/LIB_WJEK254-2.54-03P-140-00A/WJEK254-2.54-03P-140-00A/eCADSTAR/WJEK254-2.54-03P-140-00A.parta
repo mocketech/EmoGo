@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_17070060"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-18-13:12:27)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "WJEK254-2_54-03P-140-00A")
+)
+
+
+(pinAssign "ECS_17070060"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-18-13:12:27)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_17070060")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "WJEK254-2_54-03P-140-00A")
+)
+
+
+(part "WJEK254-2_54-03P-140-00A"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-18-13:12:27)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "WJEK254-2_54-03P-140-00A")
+    (pinAssignRef "ECS_17070060")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Terminal block 2.54mm 3P green vertical")
+    (property "Manufacturer_Name" "Cixi Wanjie Electronic Co., Ltd")
+    (property "Manufacturer_Part_Number" "WJEK254-2.54-03P-140-00A")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://akizukidenshi.com/download/ds/cixiwanjie/WJEK254-2.54-XXP-1YY-00A.pdf")
+    (property "compAreaTopHeight" 8.64)
+)
+
+

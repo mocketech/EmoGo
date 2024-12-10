@@ -1,0 +1,18 @@
+.WJEK254-2.54-03P-140-00A :1 ;Terminal block 2.54mm 3P green vertical
+WJEK25425403P14000A
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN WJEK254-2.54-03P-140-00A
+~!Manufacturer_Name (Cixi Wanjie Electronic Co., Ltd)
+~!Manufacturer_Part_Number (WJEK254-2.54-03P-140-00A)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://akizukidenshi.com/download/ds/cixiwanjie/WJEK254-2.54-XXP-1YY-00A.pdf)
+~!Height (8.64mm)
+~!3D_Model (WJEK254-2.54-03P-140-00A)
+WJEK254-2.54-03P-140-00A
+1.1!U 2.1!U 3.1!U 

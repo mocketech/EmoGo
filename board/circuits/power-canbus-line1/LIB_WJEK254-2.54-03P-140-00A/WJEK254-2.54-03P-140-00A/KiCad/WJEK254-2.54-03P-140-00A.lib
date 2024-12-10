@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model WJEK254-2.54-03P-140-00A
+#/17070060/1059622/2.50/3/3/Connector
+DEF WJEK254-2.54-03P-140-00A J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "WJEK254-2.54-03P-140-00A" 650 200 50 H V L CNN
+F2 "WJEK25425403P14000A" 650 100 50 H I L CNN
+F3 "https://akizukidenshi.com/download/ds/cixiwanjie/WJEK254-2.54-XXP-1YY-00A.pdf" 650 0 50 H I L CNN
+F4 "Terminal block 2.54mm 3P green vertical" 650 -100 50 H I L CNN "Description"
+F5 "8.64" 650 -200 50 H I L CNN "Height"
+F6 "Cixi Wanjie Electronic Co., Ltd" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "WJEK254-2.54-03P-140-00A" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

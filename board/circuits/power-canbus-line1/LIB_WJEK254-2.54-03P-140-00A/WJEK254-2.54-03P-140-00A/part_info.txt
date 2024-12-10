@@ -1,0 +1,9 @@
+Manufacturer=Cixi Wanjie Electronic Co., Ltd
+PartNumber=WJEK254-2.54-03P-140-00A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=1.3
+Released=2022-10-18 13:12:27
+Downloaded=2024-09-24 12:41:32
+3D=Y

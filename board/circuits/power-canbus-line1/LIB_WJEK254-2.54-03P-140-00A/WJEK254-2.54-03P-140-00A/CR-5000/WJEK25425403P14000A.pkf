@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "WJEK25425403P14000A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "WJEK25425403P14000A")
+        (spec "default")
+    )
+)

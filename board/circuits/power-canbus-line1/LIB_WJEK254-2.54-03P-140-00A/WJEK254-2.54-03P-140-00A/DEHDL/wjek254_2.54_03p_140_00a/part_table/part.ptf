@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'WJEK254_2.54_03P_140_00A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Cixi Wanjie Electronic Co., Ltd", "WJEK254-2.54-03P-140-00A" (!) = "", "WJEK25425403P14000A", "Other", "", "", "", "", "Terminal block 2.54mm 3P green vertical", "https://akizukidenshi.com/download/ds/cixiwanjie/WJEK254-2.54-XXP-1YY-00A.pdf", "8.64 mm"
+END_PART
+
+END.

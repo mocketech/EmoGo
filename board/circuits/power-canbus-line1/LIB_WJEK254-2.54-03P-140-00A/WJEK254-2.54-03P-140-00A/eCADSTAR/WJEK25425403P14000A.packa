@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "WJEK254-2_54-03P-140-00A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-10-18-13:12:27)
+    (mountForm default
+        (footprintRef "WJEK25425403P14000A")
+        (spec "System")
+    )
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WJEK254-2_54-03P-140-00A")(type "KiCad")(uri "${KIPRJMOD}/LIB_WJEK254-2.54-03P-140-00A/WJEK254-2.54-03P-140-00A/KiCad/WJEK254-2_54-03P-140-00A.kicad_sym")(options "")(descr ""))
+  (lib (name "A295-CTRPB-1")(type "KiCad")(uri "${KIPRJMOD}/A295-CTRPB-1_KiCAD-main/A295-CTRPB-1.kicad_sym")(options "")(descr ""))
+)
